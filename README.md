@@ -41,7 +41,7 @@ NUM_EPISODES = 2000      # Training episodes
 ## 📁 Project Structure
 
 ```
-taxi-route-optimization/
+Taxi-Route-Optimization-with-Reinforcement-Learning/
 ├── notebook.ipynb          # Main implementation notebook
 ├── README.md              # This file
 ├── requirements.txt       # Python dependencies
@@ -239,3 +239,4 @@ For questions about this educational project:
 ---
 
 *Last updated: August 2025*
+
