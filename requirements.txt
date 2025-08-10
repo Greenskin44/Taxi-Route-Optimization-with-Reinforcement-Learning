@@ -1,0 +1,42 @@
+# Taxi Route Optimization with Reinforcement Learning
+# Requirements file for Python dependencies
+# Educational project inspired by DataCamp
+
+# Core Dependencies
+numpy>=1.21.0                # Numerical computations and arrays
+gymnasium[toy_text]>=0.28.0  # OpenAI Gymnasium with Taxi-v3 environment
+imageio>=2.19.0             # GIF creation and image processing
+
+# Jupyter Environment
+jupyter>=1.0.0              # Jupyter Notebook interface
+ipython>=8.0.0              # Enhanced Python interpreter
+ipykernel>=6.15.0           # Jupyter kernel for Python
+
+# Optional Dependencies (for enhanced functionality)
+matplotlib>=3.5.0           # Plotting and visualization (optional)
+seaborn>=0.11.0            # Statistical data visualization (optional)
+pandas>=1.4.0              # Data manipulation (optional for analysis)
+
+# Development Dependencies (optional)
+pytest>=7.0.0              # Testing framework (optional)
+black>=22.0.0              # Code formatting (optional)
+flake8>=4.0.0              # Code linting (optional)
+
+# System Requirements
+# Python >= 3.8
+# Jupyter Notebook or JupyterLab
+# At least 2GB RAM for training
+# ~100MB disk space for dependencies
+
+# Installation Instructions:
+# 1. Create virtual environment: python -m venv taxi_rl_env
+# 2. Activate environment: 
+#    - Windows: taxi_rl_env\Scripts\activate
+#    - macOS/Linux: source taxi_rl_env/bin/activate
+# 3. Install requirements: pip install -r requirements.txt
+# 4. Start Jupyter: jupyter notebook notebook.ipynb
+
+# Educational Note:
+# This requirements file is optimized for learning and experimentation.
+# For production use, consider pinning specific versions and additional
+# security/performance packages.

@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Greenskin44 (Krumpin’ Coda)
+Copyright (c) 2025 Taxi Route Optimization with Reinforcement Learning
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,22 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+EDUCATIONAL DISCLAIMER:
+
+This project is created for educational purposes only and was inspired by 
+DataCamp's reinforcement learning curriculum. It is intended to demonstrate 
+the application of Q-learning algorithms in solving route optimization problems.
+
+The implementation prioritizes clarity and educational value over production 
+optimization. Users should adapt and extend the code for real-world applications
+with appropriate considerations for performance, security, and scalability.
+
+This project utilizes:
+- OpenAI Gymnasium (Taxi-v3 environment)
+- Educational concepts from DataCamp
+- Standard reinforcement learning algorithms
+
+For educational use, research, and learning purposes.
